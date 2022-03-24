@@ -24,7 +24,7 @@ FILES
 Midterm solutions, 2010
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_41f10_exam2010_sol))
+([PDF]({{< baseurl >}}/resources/mit14_41f10_exam2010_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ Midterm, 2009
 Midterm solutions, 2009
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB]({{< baseurl >}}/resources/mit14_41f10_exam2009_sol))
+([PDF - 1.0MB]({{< baseurl >}}/resources/mit14_41f10_exam2009_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ Midterm solutions, 2009
 Final exam, 2009
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_41f10_final2009))
+([PDF]({{< baseurl >}}/resources/mit14_41f10_final2009))
 {{< tdclose >}}
 
 {{< trclose >}}

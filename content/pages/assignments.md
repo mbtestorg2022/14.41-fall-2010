@@ -25,10 +25,10 @@ SOLUTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_41f10_pset01))
+([PDF]({{< baseurl >}}/resources/mit14_41f10_pset01))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_41f10_pset01_sol))
+([PDF]({{< baseurl >}}/resources/mit14_41f10_pset01_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +40,7 @@ SOLUTIONS
 ([PDF]({{< baseurl >}}/resources/mit14_41f10_pset02))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_41f10_pset02_sol))
+([PDF]({{< baseurl >}}/resources/mit14_41f10_pset02_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,10 +49,10 @@ SOLUTIONS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_41f10_pset03))
+([PDF]({{< baseurl >}}/resources/mit14_41f10_pset03))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_41f10_pset03_sol))
+([PDF]({{< baseurl >}}/resources/mit14_41f10_pset03_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,10 +73,10 @@ SOLUTIONS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_41f10_pset05))
+([PDF]({{< baseurl >}}/resources/mit14_41f10_pset05))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_41f10_pset05_sol))
+([PDF]({{< baseurl >}}/resources/mit14_41f10_pset05_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
